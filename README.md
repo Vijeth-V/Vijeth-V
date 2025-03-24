@@ -29,5 +29,3 @@ I am a full-Stack software developer with 4+ years of experience in designing, d
 
 <!-- ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vijeth-V&show_icons=true&theme=gruvbox) -->
 
-
-#
