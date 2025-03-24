@@ -7,7 +7,7 @@ I am a full-Stack software developer with 4+ years of experience in designing, d
 
 ---
 
-## Languages and Tools
+# Languages and Tools
 
 <img align="left" alt="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
 <img align="left" alt="Angular" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
@@ -24,7 +24,7 @@ I am a full-Stack software developer with 4+ years of experience in designing, d
           
 <br />
 
-#
+
 <!--### 📊 Stats  -->
 
 <!-- ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vijeth-V&show_icons=true&theme=gruvbox) -->
