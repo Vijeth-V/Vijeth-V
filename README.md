@@ -1,4 +1,4 @@
-## Vijeth Venkatesha 👋
+# Vijeth Venkatesha 👋
 
  `Digital Craftsman (Developer)` 
 
@@ -31,13 +31,14 @@ I am a full-Stack software developer with 4+ years of experience in designing, d
 
 <!-- ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vijeth-V&show_icons=true&theme=gruvbox) -->
 
+
+
 ---
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+# 🤝🏻 Connect with Me 
 <p>
 <a href="https://vijeth-portfolio.netlify.app/" target="_blank"><img alt="Website" target="_blank" src="https://img.shields.io/badge/Website-www.Vijeth.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/vijeth-v/" target="_blank"><img alt="LinkedIn" target="_blank" src="https://img.shields.io/badge/LinkedIn-Vijeth%20Venkatesha%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:vijeth1410@gmail.com" target="_blank"><img alt="Email" target="_blank" src="https://img.shields.io/badge/Email-Vijeth's Mail-blue?style=flat-square&logo=gmail"></a>
 </p>
   
-⭐️ From [Vijeth Venkatesha](https://github.com/vijeth-v)
