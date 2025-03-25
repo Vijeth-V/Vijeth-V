@@ -35,7 +35,7 @@ I am a full-Stack software developer with 4+ years of experience in designing, d
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
-<a href="https://vijeth-portfolio.netlify.app/" target="_blank"><img alt="Portfolio" target="_blank" src="https://img.shields.io/badge/Website-www.Vijeth-Portfolio.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://vijeth-portfolio.netlify.app/" target="_blank"><img alt="Website" target="_blank" src="https://img.shields.io/badge/Website-www.Vijeth-Portfolio.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/vijeth-v/" target="_blank"><img alt="LinkedIn" target="_blank" src="https://img.shields.io/badge/LinkedIn-Vijeth%20Venkatesha%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:vijeth1410@gmail.com" target="_blank"><img alt="Email" target="_blank" src="https://img.shields.io/badge/Email-Vijeth's Mail-blue?style=flat-square&logo=gmail"></a>
 </p>
